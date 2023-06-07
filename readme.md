@@ -1,4 +1,4 @@
-# Delphi Components for LibreOffice
+# DinosOffice: Delphi Components for LibreOffice
 
 ### Important
 
@@ -8,7 +8,6 @@ In the last update, the DocVisible property was included, by default it is false
 If you want to see the spreadsheet being generated, set it to true;
 
 ----
-
 Necessario instalar o libreoffice : 
 Need to install :
 
@@ -20,10 +19,17 @@ https://pt-br.libreoffice.org/baixe-ja/libreoffice-novo/
  - 4 - install
  - 5 - tools -> options -> language -> Delphi -> Library -> Library/ADD "C:\yourLocal\Component_OpenOffice\Src" (for delphi 7 use the "C:\yourLocal\Component_OpenOffice\SrcDX7")
 
+ 
+ 
+| Project {versionOficial}   	| Version 	   |
+|----------------------------	|------------ |
+| 19.5                     	  | tested ✅  |
+
 Tested Delphi version
 
 | Version  	| Supported 	|
 |----------	|-----------	|
+| > 11.x   	|         ✅ 	|
 | > 10.x   	|         ✅ 	|
 | Seattle  	|         ✅ 	|
 | XE 8     	|         ✅ 	|
